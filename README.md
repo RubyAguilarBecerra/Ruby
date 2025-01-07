@@ -8,7 +8,6 @@ I am a systems engineer. C, C++, Javascript, HTML, CSS, Bootstrap, Spring Boot a
 - 🌱 I’m currently learning ...
   - Spring Boot
   - React js
-- 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside of technology, 🎸 I love playing guitar, 🖌️ painting and skecthing, 🎵 listening to music, and 🛫traveling..
 - 📫 get in touch with me at: aguibece21@gmail.com</a>
